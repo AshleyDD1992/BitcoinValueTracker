@@ -1,5 +1,6 @@
+
 # BitcoinValueTracker
-### An Elastic stack set up to track the value of bitcoin using the coindesk api
+##### Using Elastic stack to track the value of bitcoin using the coindesk api
 Logstash to ingest, Elasticsearch to store, Kibana to visualiza and Nginx to secure the data.
 
 ## How to
