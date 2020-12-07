@@ -1,0 +1,2 @@
+#ignore storage/nodes
+/elasticsearch/storage/nodes/*
